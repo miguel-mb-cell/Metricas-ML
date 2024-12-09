@@ -124,8 +124,5 @@ A partir dessa matriz, realizei o cálculo das métricas para avaliar o desempen
   </tbody>
 </table>
 
-
-Foram usadas apenas 500 imagens do dataset, mesmo assim foi alcançado **85%** de acurácia!
-
 ## 👀 Confira os detalhes
 Confira os detalhes no meu notebook: [Cálculo de Métricas](https://colab.research.google.com/drive/1I9oK5RaJ_J0c9nZKNu23ieQ1Dc2uY4lU?usp=sharing).
